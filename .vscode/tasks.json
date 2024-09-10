@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch minimal-api",
+			"file": "C:\\Projetos\\Bootcamp\\minimal-api\\minimal-api.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch minimal-api"
+		}
+	]
+}
